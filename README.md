@@ -36,15 +36,12 @@ This repository contains a Python script that allows you to send free SMS messag
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -63,7 +60,7 @@ Create `app.py` to get started.
 
 ### Prerequisites
 
-* [![Python]
+* PYTHON
 To use this script, you need to have Python 3 installed on your system and install the requests library using pip:
 `pip install requests`
 You also need to have a Yegara Host account and a domain name registered with them. You can sign up for a free account [here](https://yegara.com).
