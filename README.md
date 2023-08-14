@@ -158,7 +158,7 @@ Distributed under the Apache License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Instagram](https://instagram.com/_abelzk) - abelzeki24@gmail.com
+Abel Zecharias - [Instagram](https://instagram.com/_abelzk) - abelzeki24@gmail.com
 
 Project Link: [https://github.com/abelzk/yegara-host-smsapi-python](https://github.com/abelzk/yegara-host-smsapi-python)
 
