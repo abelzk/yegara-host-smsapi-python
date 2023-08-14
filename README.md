@@ -48,8 +48,6 @@ This repository contains a Python script that allows you to send free SMS messag
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://ethiosolve.com)
-
 This repository contains a Python script that allows you to send free SMS messages using the `Yegara Host SMS Gateway`. You can use this script to send OTP, notifications, alerts, and other messages from your websites and apps. The script uses the `Yegara Host API` to communicate with the SMS Gateway and requires a valid API key and sender ID. You can also use the WordPress plugin provided by Yegara Host to integrate the SMS Gateway with your WordPress site. This script is easy to use and customize, and it supports both Unicode and non-Unicode characters.
 
 Create `app.py` to get started.
