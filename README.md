@@ -84,16 +84,16 @@ You can run the script from the command line or import it as a module in your ow
 
 <strong>Template IDs</strong>
     
-    * otp
-    * otp_1
-    * welcome
-    * welcome_1
-    * reminder
-    * reminder_1
-    * shopping
-    * shopping_1
-    * confirmation
-    * confirmation_1
+    otp
+    otp_1
+    welcome
+    welcome_1
+    reminder
+    reminder_1
+    shopping
+    shopping_1
+    confirmation
+    confirmation_1
 
 _For more examples, please refer to the [Documentation](https://my.yegara.com)_
 
@@ -105,7 +105,7 @@ _For more examples, please refer to the [Documentation](https://my.yegara.com)_
  * [(https://yegara.com/sms-gateway/](https://yegara.com/sms-gateway/)
  * [https://yegara.com/sms-api/](https://yegara.com/sms-api/)
  * [https://yegara.com/free-hosting/](https://yegara.com/free-hosting/)
- * [LICENCE](https://github.com/yegara-host-smsapi-python/LICENSE)
+ * [LICENSE](https://github.com/yegara-host-smsapi-python/LICENSE)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
