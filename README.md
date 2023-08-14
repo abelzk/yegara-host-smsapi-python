@@ -60,8 +60,7 @@ Create `app.py` to get started.
 
 ### Prerequisites
 
-* PYTHON
-To use this script, you need to have Python 3 installed on your system and install the requests library using pip:
+* To use this script, you need to have Python 3 installed on your system and install the requests library using pip:
 `pip install requests`
 You also need to have a Yegara Host account and a domain name registered with them. You can sign up for a free account [here](https://yegara.com).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
