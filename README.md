@@ -13,8 +13,8 @@ This repository contains a Python script that allows you to send free SMS messag
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://ethiosolve.com"">
-    <img src="images/ethiosolve-logo.png" alt="ethiosolve 3d logo" width="80" height="80">
+  <a href="https://ethiosolve.com">
+    <img src="images/ethiosolve-logo.png" alt="ethiosolve 3d logo" width="120" height="120">
   </a>
 
   <h3 align="center">Yegara Host SMS API Python Script</h3>
