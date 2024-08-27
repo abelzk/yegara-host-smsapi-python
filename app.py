@@ -1,7 +1,7 @@
 import random
 import requests
 import string
-
+# A function to generate otp
 def generateOTP():
     return ''.join(random.choices(string.digits, k=4))
 
